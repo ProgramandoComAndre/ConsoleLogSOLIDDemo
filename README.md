@@ -4,3 +4,6 @@ This is an example which demonstrates the flexibility of SOLID using a unique fu
 
 
  
+## How to run project
+
+Run with npm run start:dev
